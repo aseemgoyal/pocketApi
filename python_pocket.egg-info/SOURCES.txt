@@ -1,0 +1,7 @@
+pocket.py
+setup.py
+python_pocket.egg-info/PKG-INFO
+python_pocket.egg-info/SOURCES.txt
+python_pocket.egg-info/dependency_links.txt
+python_pocket.egg-info/requires.txt
+python_pocket.egg-info/top_level.txt
